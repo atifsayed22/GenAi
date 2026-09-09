@@ -1,0 +1,3 @@
+Laptop | 89999
+Mobile | 67777
+Laptop | 98888

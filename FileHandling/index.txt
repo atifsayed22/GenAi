@@ -1,0 +1,4 @@
+This is Sample txt file 
+for understanding python file handling without using 
+exter library such as csv module 
+new line added throuhg pythonn file module 
