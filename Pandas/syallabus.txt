@@ -1,0 +1,48 @@
+Phase 1 — Core Pandas
+    What is Pandas?
+    Importing Pandas
+    Series
+    DataFrame
+    Creating DataFrame
+    Rows & columns
+    head(), tail(), shape, columns, index, dtypes, info(), describe()
+Phase 2 — Selecting & Filtering Data
+    Selecting columns
+    Selecting rows
+    loc
+    iloc
+    Filtering with conditions
+    Multiple conditions: &, |, ~
+    isin()
+    query()
+Phase 3 — Cleaning Data ⭐ Very Important
+    Missing values — NaN
+    isnull(), notnull()
+    dropna()
+    fillna()
+    Duplicates — duplicated(), drop_duplicates()
+    Changing data types — astype()
+    String cleaning with .str
+    Renaming columns
+    Replacing values
+Phase 4 — Data Manipulation
+    Adding/removing columns
+    Sorting — sort_values()
+    value_counts()
+    unique() / nunique()
+    apply()
+    map()
+    groupby() ⭐⭐⭐
+    Aggregation — sum(), mean(), count(), min(), max()
+    agg()
+Phase 5 — Combining Data
+    concat()
+    merge()
+    join()
+    Phase 6 — Working With Real Data
+    Reading CSV
+    Writing CSV
+    Reading Excel
+    Working with JSON
+    Date/time data
+    Basic visualization with Pandas/Matplotlib

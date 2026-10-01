@@ -1,0 +1,18 @@
+machine learning life cycle 
+
+1. Data Gatheriing (storing data into df)
+2. Data Exploration : it is the intial step . 
+    whre anaylyst  examine  the raw dataset understanind the structures , attributes  and data quality . 
+    before performing EDA
+3. Data cleaning : 
+    it is the process of identyfing  , correcting , or removing corrrupt , inaccurate , incomplete
+    data in the dataset to improve the overall quality of the data . it ensure that raw data is accurate , consistent
+    and ready for Analysis 
+4. EDA (Exploratory Data Analysis)  : EDA primarily stands for Exploratory Data Analysis, a critical 
+    initial phase in data science and statistics where analysts investigate datasets to summarize main 
+    characteristics, often using visual methods, before applying formal modeling.  Developed by John 
+    Tukey in the 1970s, this open-ended approach helps identify patterns, anomalies, and relationships,
+     guiding hypothesis generation and ensuring data quality for subsequent machine learning or 
+     statistical analysis
+5. Data preprocessing 
+6. Machine learning model 
